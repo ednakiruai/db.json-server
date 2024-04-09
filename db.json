@@ -1,0 +1,68 @@
+{"destination":[
+   { "name": "Maasai Mara National Reserve",
+     "location":"Narok County",
+     "description":"Famous for its exceptional population of lions,leopards and cheetahs.Offers breathtaking views of the savannah.",
+     "activities":["Safari","Hot air balloon","Cultural tours"]
+},
+{
+  "name": "Diani Beach",
+     "location":"Mombasa County",
+     "description":"Known for its white sandy beaches and crystal-clear waters.Ideal for relaxation and water sports activities.",
+     "activities":["Snorkeling","Scuba diving","Windsurfing"]
+},
+{
+  "name": "Mount Kenya",
+     "location":"Central Province",
+     "description":"Africa's second-highest peak,offering trekking and climbing opportunities.Home to diverse wildlife and flora.",
+     "activities":["Hiking","Mountain climbing","Wildlife viewing"]
+}
+],
+"accommodation":[
+   {
+    "name": "Sarova Mara Game Camp",
+    "location":"Maasai Mara National Reserve",
+    "type": "Luxury tented camp",
+    "price_per_night": "$",
+    "rating": 4.5
+   },
+   {
+    "name": "Diani Reef Beach Pesort & Spa",
+    "location":"Diani Beach",
+    "type": "Resort",
+    "price_per_night": "$",
+    "rating": 4.0
+   },
+   {
+    "name": "Serena Mountain Lodge",
+    "location":"Mount Kenya",
+    "type": "Lodge",
+    "price_per_night": "$",
+    "rating": 4.3
+   }
+],
+"tours":[
+  {
+    "name":"Maasai Mara Safari",
+    "duration": "3 days",
+    "destination": ["Maasai Mara National Reserve"],
+    "accommodation": "Sarova Mara Game Camp",
+    "price": "$$$",
+    "description": "Experience the wonders of Maasai Mara with daily game drives and cultural tours.Witness the Big Five and experience the rich Maasai culture."
+  },
+  {
+    "name":"Diani Beach Getaway",
+    "duration": "5 days",
+    "destination": ["Diani Beach"],
+    "accommodation": "Diani Reef Beach Resort & Spa",
+    "price": "$$",
+    "description": "Indulge in ultimate relaxation at the beautiful Diani Beach.Enjoy water sports,sunbathing and spa treatments."
+  },
+  {
+    "name":"Summit Expendition",
+    "duration": "7 days",
+    "destination": ["Mount Kenya"],
+    "accommodation": "Serena Mountain Lodge",
+    "price": "$$$",
+    "description": "Embark on a challenging trek to the summit of Mount Kenya with experienced guides.Experience breathtaking views and diverse wildlife."
+  }
+]}
