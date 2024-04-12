@@ -27,7 +27,9 @@
     "location":"Maasai Mara National Reserve",
     "type": "Luxury tented camp",
     "price_per_night": "$45",
-    "rating": 4.5
+    "rating": 4.5,
+    "image": "/images/maasai-mara-wildlife.jpg"
+
    },
    {
     "id": "5",
@@ -35,7 +37,8 @@
     "location":"Diani Beach",
     "type": "Resort",
     "price_per_night": "$50",
-    "rating": 4.0
+    "rating": 4.0,
+    "image":"/images/diani-reef copy.jpg"
    },
    {
     "id": "6",
@@ -43,7 +46,8 @@
     "location":"Mount Kenya",
     "type": "Lodge",
     "price_per_night": "$60",
-    "rating": 4.3
+    "rating": 4.3,
+    "image":"/images/Mt.Kenya.jpg"
    }
 ],
 "tours":[
@@ -53,7 +57,7 @@
     "duration": "3 days",
     "destination": ["Maasai Mara National Reserve"],
     "accommodation": "Sarova Mara Game Camp",
-    "price": "90",
+    "price": "$90",
     "description": "Experience the wonders of Maasai Mara with daily game drives and cultural tours.Witness the Big Five and experience the rich Maasai culture."
   },
   {
